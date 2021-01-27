@@ -1,0 +1,10 @@
+MVC
+V: View        视图层    java Swing
+C: Cont
+roller  控制层
+M: Model        模型层 （数据）
+{
+	Service  数据处理
+	Dao      数据读取
+}domain      数据存储     容器
+D:Datebase   数据层         数组  集合 数据库
